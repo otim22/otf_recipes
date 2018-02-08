@@ -7,8 +7,6 @@
 - Bootstrap 3.2*
 - jQeury 3.2.*
 - HTML 5
-- Google chrome is the preferred browser
-- Screen size ***all***
 
 #### How to set up project
 - clone or download project from my github repository [otf recipes on GitHub pages](https://github.com/otim22/otf_recipes)
